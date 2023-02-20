@@ -6,3 +6,9 @@ scikit-learn
 spacy
 nltk
 catboost
+WordCloud
+bs4
+xgboost
+tensorflow
+keras
+gensim
